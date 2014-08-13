@@ -2,11 +2,11 @@
     "name": "lib.gesture",
     "description": "增强移动端的手势识别",
     "version": "1.0rc1",
-    "homepage": "https://github.com/AlibabaMobileFrontEnd/lib.gesture",
+    "homepage": "https://github.com/amfe/lib.gesture",
     "author": "wintercn",
     "repository": {
         "type": "git",
-        "url": "https://github.com/AlibabaMobileFrontEnd/lib.gesture.git"
+        "url": "https://github.com/amfe/lib.gesture.git"
     },
     "licenses": [
         {
